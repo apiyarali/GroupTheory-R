@@ -36,7 +36,7 @@
 
 >> The isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub> shows that even though these two groups seem very different, they are structurally the same. They are just different ways of organizing the same underlying structure, which is why we say they are isomorphic.
 
-## <ins>[Dihedral Group](https://en.wikipedia.org/wiki/Dihedral_group#Elements) Enhanced App </ins>
+## <ins>[Dihedral Group](https://en.wikipedia.org/wiki/Dihedral_group#Elements) D6 Enhanced App </ins>
 
 **Link to Published App: [Dihedral Group D6](https://alipiyarali.shinyapps.io/GroupD6Enhanced/)**
 
