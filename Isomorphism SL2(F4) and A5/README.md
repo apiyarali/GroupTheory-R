@@ -28,6 +28,3 @@ For every move you make in SL<sub>2</sub>(F<sub>4</sub>), there is a matching mo
 ## Conclusion
 
 The isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub> shows that even though these two groups seem very different, they are structurally the same. They are just different ways of organizing the same underlying structure, which is why we say they are isomorphic.
-
-
-
