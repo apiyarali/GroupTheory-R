@@ -10,9 +10,9 @@
 
 Link to Published App: [Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub>](https://alipiyarali.shinyapps.io/IsoF4/)
 
-### Introduction
+### > Introduction
 
-In this project, we explore the [isomorphism](https://en.wikipedia.org/wiki/Group_isomorphism) between two mathematical groups: SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub>. At first glance, these two groups might seem completely different, but they actually have the same structure! Here's a simple explanation of the connection between them.
+>> In this project, we explore the [isomorphism](https://en.wikipedia.org/wiki/Group_isomorphism) between two mathematical groups: SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub>. At first glance, these two groups might seem completely different, but they actually have the same structure! Here's a simple explanation of the connection between them.
 
 ### What is [SL<sub>2</sub>](https://en.wikipedia.org/wiki/SL2(R))[(F<sub>4</sub>)](https://en.wikipedia.org/wiki/F4_(mathematics))?
 
