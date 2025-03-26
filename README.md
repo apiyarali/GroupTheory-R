@@ -40,7 +40,7 @@
 
 ## <ins>[Dihedral Group](https://en.wikipedia.org/wiki/Dihedral_group#Elements) Enhanced App </ins>
 
-Link to Published App: [Dihedral Group D6](https://alipiyarali.shinyapps.io/GroupD6Enhanced/)
+**Link to Published App: [Dihedral Group D6](https://alipiyarali.shinyapps.io/GroupD6Enhanced/)**
 
 > **Introduction**
 
