@@ -6,7 +6,7 @@
     * [Dihedral Group D4](https://alipiyarali.shinyapps.io/GroupD4/)
     
     
-## Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub>
+1. ## Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub>
 
 Link to Published App: [Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub>](https://alipiyarali.shinyapps.io/IsoF4/)
 
