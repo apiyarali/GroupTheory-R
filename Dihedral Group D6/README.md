@@ -15,9 +15,7 @@ In this app, the elements of D6 are represented as permutations of the numbers 1
 ## Features
 
 1. Group Elements
-The app allows you to explore the elements of D6 by clicking on buttons representing these elements under the Elements of Group heading.
-
-You can multiply two elements by clicking on them to see the resulting element of the group.
+The app allows you to explore the elements of D6 by clicking on buttons representing these elements under the Elements of Group heading. You can multiply two elements by clicking on them to see the resulting element of the group.
 
 2. Subgroups
 The app displays all the subgroups of D6, allowing you to see the smaller groups that are contained within D6.
