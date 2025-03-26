@@ -42,13 +42,3 @@ Generate Subgroups: Click on the buttons under the Generation of Subgroups headi
 ## Conclusion
 
 This app provides an interactive and intuitive way to understand the Dihedral Group D6 and its properties. By visualizing symmetries as permutations, you can easily explore the group's structure, including its elements, subgroups, cosets, conjugation, and subgroup generation. It's a valuable tool for anyone studying group theory or interested in the symmetries of regular polygons.
-
-
-
-This app demonstrates the symmetry group of a regular hexagon ([Dihedral Group](https://en.wikipedia.org/wiki/Dihedral_group#Elements) D6) as permutations of the numbers 1 through 6.  
-
-It also shows all the subgroups, cosets, conjugation, and generation of subgroups.
-
-To multiply the products, click on the elements buttons under the Elements of group heading. Similarly, for subgroups, cosets, conjugation, and generation of subgroups, click on the buttons under the appropriate heading.
-
-Link to Published App: https://alipiyarali.shinyapps.io/GroupD6Enhanced/
