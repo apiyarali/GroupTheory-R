@@ -8,7 +8,7 @@
     
 ## <ins>Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub></ins>
 
-Link to Published App: [Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub>](https://alipiyarali.shinyapps.io/IsoF4/)
+**Link to Published App: [Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub>](https://alipiyarali.shinyapps.io/IsoF4/)**
 
 > **Introduction**
 
