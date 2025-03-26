@@ -1,6 +1,6 @@
 # Mathematical [Group Theory](https://en.wikipedia.org/wiki/Group_theory#:~:text=In%20mathematics%20and%20abstract%20algebra,with%20additional%20operations%20and%20axioms.) demonstration apps in R.  
 
-* [Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub>](#<ins>Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub></ins>)
+* [Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub>](https://github.com/apiyarali/GroupTheory-R/blob/master/README.md#isomorphism-between-sl2f4-and-a5)
    
 ## <ins>Isomorphism between SL<sub>2</sub>(F<sub>4</sub>) and A<sub>5</sub></ins>
 
